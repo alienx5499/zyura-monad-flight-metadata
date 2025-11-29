@@ -57,7 +57,7 @@
     },
     {
       "pnr": "P3PRU5",
-      "policyId": 415717,
+      "policyId": 415578,
       "policyholder": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
       "wallet": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
       "passenger": {
@@ -75,11 +75,11 @@
         "class": null,
         "classType": null
       },
-      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-monad-nft-metadata/main/metadata/0xaCCAA3Db43F67330055f7C636C2d7080626a98ef/415717/policy.json",
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-monad-nft-metadata/main/metadata/0xaCCAA3Db43F67330055f7C636C2d7080626a98ef/415578/policy.json",
       "created_at": 1764415734,
-      "updated_at": 1764415734
+      "updated_at": 1764416694
     }
   ],
   "created_at": 1764413980,
-  "updated_at": 1764416693
+  "updated_at": 1764416694
 }
