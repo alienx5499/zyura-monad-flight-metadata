@@ -1,0 +1,81 @@
+{
+  "flight_number": "AM708",
+  "date": "2026-04-16",
+  "scheduled_departure_unix": 1776315468,
+  "origin": "PHX",
+  "destination": "FLL",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "QYFEKD",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Caleb Morales",
+        "dateOfBirth": "1987-05-22",
+        "documentId": "PQYFEKD610",
+        "seat": "13D",
+        "email": "caleb.morales41@outlook.com",
+        "phone": "+1-636-260-5368"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413980,
+      "updated_at": 1764413980
+    },
+    {
+      "pnr": "2N28RW",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Taylor Bennett",
+        "dateOfBirth": "1975-01-09",
+        "documentId": "P2N28RW512",
+        "seat": "20D",
+        "email": "taylor.bennett10@icloud.com",
+        "phone": "+1-623-402-3967"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413980,
+      "updated_at": 1764413980
+    },
+    {
+      "pnr": "7FPP7U",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Eliza Ramirez",
+        "dateOfBirth": "1955-11-29",
+        "documentId": "P7FPP7U877",
+        "seat": "15C",
+        "email": "eliza.ramirez38@example.com",
+        "phone": "+1-603-783-2976"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413980,
+      "updated_at": 1764413980
+    },
+    {
+      "pnr": "P3PRU5",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Morgan Mitchell",
+        "dateOfBirth": "1975-05-08",
+        "documentId": "PP3PRU5829",
+        "seat": "7F",
+        "email": "morgan.mitchell95@gmail.com",
+        "phone": "+1-864-342-7925"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413980,
+      "updated_at": 1764413980
+    }
+  ],
+  "created_at": 1764413980,
+  "updated_at": 1764413980,
+  "delay_minutes": 0
+}
