@@ -1,0 +1,64 @@
+{
+  "flight_number": "DY341",
+  "date": "2026-02-27",
+  "scheduled_departure_unix": 1772207006,
+  "origin": "FLL",
+  "destination": "SAN",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "L8WJLV",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Eliza Xu",
+        "dateOfBirth": "2005-09-05",
+        "documentId": "PL8WJLV067",
+        "seat": "2E",
+        "email": "eliza.xu97@outlook.com",
+        "phone": "+1-534-463-7874"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413982,
+      "updated_at": 1764413982
+    },
+    {
+      "pnr": "Q368RB",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Quinn Bennett",
+        "dateOfBirth": "1967-10-17",
+        "documentId": "PQ368RB817",
+        "seat": "1D",
+        "email": "quinn.bennett81@example.com",
+        "phone": "+1-576-564-2977"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413982,
+      "updated_at": 1764413982
+    },
+    {
+      "pnr": "48ZQVG",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Emerson Porter",
+        "dateOfBirth": "1981-08-17",
+        "documentId": "P48ZQVG280",
+        "seat": "22F",
+        "email": "emerson.porter52@outlook.com",
+        "phone": "+1-257-289-4442"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413982,
+      "updated_at": 1764413982
+    }
+  ],
+  "created_at": 1764413982,
+  "updated_at": 1764413982,
+  "delay_minutes": 0
+}
