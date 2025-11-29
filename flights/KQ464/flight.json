@@ -1,0 +1,64 @@
+{
+  "flight_number": "KQ464",
+  "date": "2026-02-04",
+  "scheduled_departure_unix": 1770182818,
+  "origin": "SFO",
+  "destination": "FLL",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "8HMZU7",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Micah Foster",
+        "dateOfBirth": "1998-08-05",
+        "documentId": "P8HMZU7017",
+        "seat": "10D",
+        "email": "micah.foster92@example.com",
+        "phone": "+1-604-649-2391"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413983,
+      "updated_at": 1764413983
+    },
+    {
+      "pnr": "TFH87E",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Jordan Simmons",
+        "dateOfBirth": "1967-08-13",
+        "documentId": "PTFH87E514",
+        "seat": "15A",
+        "email": "jordan.simmons39@icloud.com",
+        "phone": "+1-728-574-2069"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413983,
+      "updated_at": 1764413983
+    },
+    {
+      "pnr": "48ANF2",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Avery Silva",
+        "dateOfBirth": "1986-07-18",
+        "documentId": "P48ANF2079",
+        "seat": "20A",
+        "email": "avery.silva62@gmail.com",
+        "phone": "+1-489-540-4840"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413983,
+      "updated_at": 1764413983
+    }
+  ],
+  "created_at": 1764413983,
+  "updated_at": 1764413983,
+  "delay_minutes": 0
+}
