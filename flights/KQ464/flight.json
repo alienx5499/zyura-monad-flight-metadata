@@ -1,27 +1,32 @@
 {
   "flight_number": "KQ464",
   "date": "2026-02-04",
-  "scheduled_departure_unix": 1770182818,
-  "origin": "SFO",
-  "destination": "FLL",
+  "scheduled_departure_unix": 1770182760,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "8HMZU7",
-      "policyId": "NA",
-      "policyholder": "NA",
-      "wallet": "NA",
+      "policyId": 421864,
+      "policyholder": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
+      "wallet": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
       "passenger": {
+        "name": "Micah Foster",
         "fullName": "Micah Foster",
-        "dateOfBirth": "1998-08-05",
-        "documentId": "P8HMZU7017",
-        "seat": "10D",
         "email": "micah.foster92@example.com",
-        "phone": "+1-604-649-2391"
+        "phone": "+1-604-649-2391",
+        "phone_number": "+1-604-649-2391",
+        "date_of_birth": "1998-08-05",
+        "dateOfBirth": "1998-08-05",
+        "passport_number": "P8HMZU7017",
+        "documentId": "P8HMZU7017",
+        "address": null,
+        "seat": "10D",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1764413983,
-      "updated_at": 1764413983
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-monad-nft-metadata/main/metadata/0xaCCAA3Db43F67330055f7C636C2d7080626a98ef/421864/policy.json",
+      "created_at": 1764421881,
+      "updated_at": 1764421882
     },
     {
       "pnr": "TFH87E",
@@ -59,6 +64,5 @@
     }
   ],
   "created_at": 1764413983,
-  "updated_at": 1764413983,
-  "delay_minutes": 0
+  "updated_at": 1764421882
 }
