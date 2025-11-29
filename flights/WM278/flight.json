@@ -1,27 +1,32 @@
 {
   "flight_number": "WM278",
   "date": "2026-03-24",
-  "scheduled_departure_unix": 1774391044,
-  "origin": "MIA",
-  "destination": "MSP",
+  "scheduled_departure_unix": 1774391040,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "DHLVPS",
-      "policyId": "NA",
-      "policyholder": "NA",
-      "wallet": "NA",
+      "policyId": 418925,
+      "policyholder": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
+      "wallet": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
       "passenger": {
+        "name": "Sawyer Ramirez",
         "fullName": "Sawyer Ramirez",
-        "dateOfBirth": "1998-02-09",
-        "documentId": "PDHLVPS813",
-        "seat": "6B",
         "email": "sawyer.ramirez27@yahoo.com",
-        "phone": "+1-870-641-5282"
+        "phone": "+1-870-641-5282",
+        "phone_number": "+1-870-641-5282",
+        "date_of_birth": "1998-02-09",
+        "dateOfBirth": "1998-02-09",
+        "passport_number": "PDHLVPS813",
+        "documentId": "PDHLVPS813",
+        "address": null,
+        "seat": "6B",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1764413981,
-      "updated_at": 1764413981
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-monad-nft-metadata/main/metadata/0xaCCAA3Db43F67330055f7C636C2d7080626a98ef/418925/policy.json",
+      "created_at": 1764418945,
+      "updated_at": 1764418946
     },
     {
       "pnr": "EQQ45Q",
@@ -76,6 +81,5 @@
     }
   ],
   "created_at": 1764413981,
-  "updated_at": 1764413981,
-  "delay_minutes": 0
+  "updated_at": 1764418946
 }
