@@ -1,0 +1,47 @@
+{
+  "flight_number": "JV473",
+  "date": "2026-05-06",
+  "scheduled_departure_unix": 1778028853,
+  "origin": "ATL",
+  "destination": "MIA",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "BDU3TS",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Logan Coleman",
+        "dateOfBirth": "1975-07-20",
+        "documentId": "PBDU3TS684",
+        "seat": "11D",
+        "email": "logan.coleman64@gmail.com",
+        "phone": "+1-622-434-7675"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413985,
+      "updated_at": 1764413985
+    },
+    {
+      "pnr": "VNZGJ2",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Elena Nguyen",
+        "dateOfBirth": "1980-02-24",
+        "documentId": "PVNZGJ2122",
+        "seat": "10D",
+        "email": "elena.nguyen91@icloud.com",
+        "phone": "+1-766-487-8882"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1764413985,
+      "updated_at": 1764413985
+    }
+  ],
+  "created_at": 1764413985,
+  "updated_at": 1764413985,
+  "delay_minutes": 0
+}
