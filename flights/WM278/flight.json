@@ -2,7 +2,7 @@
   "flight_number": "WM278",
   "date": "2026-03-24",
   "scheduled_departure_unix": 1774391040,
-  "status": "scheduled",
+  "status": "delayed",
   "pnrs": [
     {
       "pnr": "DHLVPS",
@@ -81,5 +81,7 @@
     }
   ],
   "created_at": 1764413981,
-  "updated_at": 1764418946
+  "updated_at": 1764419141,
+  "actual_departure_unix": 1774398240,
+  "delay_minutes": 120
 }
