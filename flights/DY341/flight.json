@@ -1,9 +1,7 @@
 {
   "flight_number": "DY341",
   "date": "2026-02-27",
-  "scheduled_departure_unix": 1772207006,
-  "origin": "FLL",
-  "destination": "SAN",
+  "scheduled_departure_unix": 1772206980,
   "status": "scheduled",
   "pnrs": [
     {
@@ -42,23 +40,29 @@
     },
     {
       "pnr": "48ZQVG",
-      "policyId": "NA",
-      "policyholder": "NA",
-      "wallet": "NA",
+      "policyId": 423744,
+      "policyholder": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
+      "wallet": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
       "passenger": {
+        "name": "Emerson Porter",
         "fullName": "Emerson Porter",
-        "dateOfBirth": "1981-08-17",
-        "documentId": "P48ZQVG280",
-        "seat": "22F",
         "email": "emerson.porter52@outlook.com",
-        "phone": "+1-257-289-4442"
+        "phone": "+1-257-289-4442",
+        "phone_number": "+1-257-289-4442",
+        "date_of_birth": "1981-08-17",
+        "dateOfBirth": "1981-08-17",
+        "passport_number": "P48ZQVG280",
+        "documentId": "P48ZQVG280",
+        "address": null,
+        "seat": "22F",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1764413982,
-      "updated_at": 1764413982
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-monad-nft-metadata/main/metadata/0xaCCAA3Db43F67330055f7C636C2d7080626a98ef/423744/policy.json",
+      "created_at": 1764423766,
+      "updated_at": 1764423766
     }
   ],
   "created_at": 1764413982,
-  "updated_at": 1764413982,
-  "delay_minutes": 0
+  "updated_at": 1764423766
 }
