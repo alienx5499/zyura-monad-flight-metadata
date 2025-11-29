@@ -2,7 +2,7 @@
   "flight_number": "KQ464",
   "date": "2026-02-04",
   "scheduled_departure_unix": 1770182760,
-  "status": "scheduled",
+  "status": "delayed",
   "pnrs": [
     {
       "pnr": "8HMZU7",
@@ -64,5 +64,7 @@
     }
   ],
   "created_at": 1764413983,
-  "updated_at": 1764421882
+  "updated_at": 1764421968,
+  "actual_departure_unix": 1770189960,
+  "delay_minutes": 120
 }
