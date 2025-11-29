@@ -1,0 +1,27 @@
+{
+  "flight_number": "MOCK123",
+  "date": "2025-11-29",
+  "scheduled_departure_unix": 1764513916,
+  "origin": "JFK",
+  "destination": "LAX",
+  "status": "scheduled",
+  "delay_minutes": null,
+  "pnrs": [
+    {
+      "pnr": "ABC123",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Mock Passenger",
+        "email": "mock@example.com"
+      },
+      "nft_metadata_url": "NA",
+      "notes": "Mock flight created for testing",
+      "created_at": 1764427517,
+      "updated_at": 1764427517
+    }
+  ],
+  "created_at": 1764427517,
+  "updated_at": 1764427517
+}
