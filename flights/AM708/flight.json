@@ -4,7 +4,7 @@
   "scheduled_departure_unix": 1776315468,
   "origin": "PHX",
   "destination": "FLL",
-  "status": "scheduled",
+  "status": "delayed",
   "pnrs": [
     {
       "pnr": "QYFEKD",
@@ -76,6 +76,7 @@
     }
   ],
   "created_at": 1764413980,
-  "updated_at": 1764413980,
-  "delay_minutes": 0
+  "updated_at": 1764414631,
+  "delay_minutes": 120,
+  "actual_departure_unix": 1776322668
 }
