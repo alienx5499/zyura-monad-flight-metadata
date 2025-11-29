@@ -1,10 +1,8 @@
 {
   "flight_number": "AM708",
   "date": "2026-04-16",
-  "scheduled_departure_unix": 1776315468,
-  "origin": "PHX",
-  "destination": "FLL",
-  "status": "delayed",
+  "scheduled_departure_unix": 1776315420,
+  "status": "scheduled",
   "pnrs": [
     {
       "pnr": "QYFEKD",
@@ -59,24 +57,29 @@
     },
     {
       "pnr": "P3PRU5",
-      "policyId": "NA",
-      "policyholder": "NA",
-      "wallet": "NA",
+      "policyId": 415717,
+      "policyholder": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
+      "wallet": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
       "passenger": {
+        "name": "Morgan Mitchell",
         "fullName": "Morgan Mitchell",
-        "dateOfBirth": "1975-05-08",
-        "documentId": "PP3PRU5829",
-        "seat": "7F",
         "email": "morgan.mitchell95@gmail.com",
-        "phone": "+1-864-342-7925"
+        "phone": "+1-864-342-7925",
+        "phone_number": "+1-864-342-7925",
+        "date_of_birth": "1975-05-08",
+        "dateOfBirth": "1975-05-08",
+        "passport_number": "PP3PRU5829",
+        "documentId": "PP3PRU5829",
+        "address": null,
+        "seat": "7F",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1764413980,
-      "updated_at": 1764413980
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-monad-nft-metadata/main/metadata/0xaCCAA3Db43F67330055f7C636C2d7080626a98ef/415717/policy.json",
+      "created_at": 1764415734,
+      "updated_at": 1764415734
     }
   ],
   "created_at": 1764413980,
-  "updated_at": 1764414631,
-  "delay_minutes": 120,
-  "actual_departure_unix": 1776322668
+  "updated_at": 1764415734
 }
