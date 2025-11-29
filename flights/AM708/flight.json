@@ -6,7 +6,7 @@
   "pnrs": [
     {
       "pnr": "QYFEKD",
-      "policyId": 415717,
+      "policyId": 414219,
       "policyholder": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
       "wallet": "0xaCCAA3Db43F67330055f7C636C2d7080626a98ef",
       "passenger": {
@@ -17,9 +17,9 @@
         "email": "caleb.morales41@outlook.com",
         "phone": "+1-636-260-5368"
       },
-      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-monad-nft-metadata/main/metadata/0xaCCAA3Db43F67330055f7C636C2d7080626a98ef/415717/policy.json",
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-monad-nft-metadata/main/metadata/0xaCCAA3Db43F67330055f7C636C2d7080626a98ef/414219/policy.json",
       "created_at": 1764413980,
-      "updated_at": 1764416383
+      "updated_at": 1764416693
     },
     {
       "pnr": "2N28RW",
@@ -81,5 +81,5 @@
     }
   ],
   "created_at": 1764413980,
-  "updated_at": 1764416383
+  "updated_at": 1764416693
 }
