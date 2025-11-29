@@ -2,7 +2,7 @@
   "flight_number": "AM708",
   "date": "2026-04-16",
   "scheduled_departure_unix": 1776315420,
-  "status": "scheduled",
+  "status": "delayed",
   "pnrs": [
     {
       "pnr": "QYFEKD",
@@ -81,5 +81,7 @@
     }
   ],
   "created_at": 1764413980,
-  "updated_at": 1764416913
+  "updated_at": 1764417268,
+  "actual_departure_unix": 1776322620,
+  "delay_minutes": 120
 }
